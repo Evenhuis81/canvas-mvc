@@ -1,0 +1,15 @@
+{
+  "name": "canvas-mvc",
+  "version": "0.1.0",
+  "description": "Canvas API with Vue, JS and TS, following the Model-View-Controller concept",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Canvas",
+    "MVC"
+  ],
+  "author": "D. Evenhuis",
+  "license": "ISC"
+}
