@@ -8,7 +8,8 @@
   ],
   "description": "Canvas API with Vue, JS and TS, following the Model-View-Controller concept",
   "scripts": {
-    "tsc": "tsc -p tsconfig.json && tsc -p tsconfig-cjs.json"
+    "tsc": "tsc -p tsconfig.json && tsc -p tsconfig-cjs.json",
+    "prepublish": "npm run tsc"
   },
   "keywords": [
     "Canvas",
